@@ -7,7 +7,7 @@
     "start": "hono serve"
   },
   "dependencies": {
-    "hono": "^4.7.7"
+    "hono": "^4.8.5"
   },
   "license": "MIT"
 }
